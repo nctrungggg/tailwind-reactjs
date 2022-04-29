@@ -17,7 +17,7 @@ function App() {
     const handleSize = () => {
       setWindowSize({
         width: window.innerWidth,
-        heigth: window.innerHeight,
+        height: window.innerHeight,
       });
     };
 
